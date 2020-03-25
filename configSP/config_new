@@ -1,0 +1,102 @@
+{
+  "Loc":{
+    "PI01":"NL",
+    "PI02":"FL",
+    "PI03":"FL0",
+    "PI04":"FL60",
+    "PI05":"FL330",
+    "PI06":"FL660",
+    "PI07":"FL1K",
+    "PI08":"FL4G",
+    "PI09":"NO",
+    "PI10":"NO",
+    "PI11":"NO",
+    "PI99":"FK"
+  },
+  "LocInfo":{
+    "FL":{
+      "Angles":{
+         "Theta": 70.0,
+         "Alpha": 0.0
+      },
+      "Name":"Far Left Wall"
+    },
+    "NL":{
+      "Angles": {
+         "Theta": 90.0,
+         "Alpha": 0.0
+      },
+      "Name":"Left Starters Area"
+    },
+    "CT":{
+      "Angles": {
+         "Theta": 0.0,
+         "Alpha": 0.0
+      },
+      "Name":"Center Wall End"
+    },
+    "NR":{
+      "Angles": {
+         "Theta": 0.0,
+         "Alpha": 0.0
+      },
+      "Name":"Right Starters Area"
+    },
+    "FR":{
+      "Angles": {
+         "Theta": 0.0,
+         "Alpha": 0.0
+      },
+      "Name":"Far Right Wall"
+    },
+    "FL0":{
+      "Angles": {
+         "Theta": 70.0,
+         "Alpha": 0.0
+      },
+      "Name":"-25 ft"
+    },
+    "FL4G":{
+      "Angles": {
+         "Theta": 70.0,
+         "Alpha": 0.0
+      },
+      "Name":"4G"
+    },
+    "FL60":{
+      "Angles": {
+         "Theta": 70.0,
+         "Alpha": 0.0
+      },
+      "Name":"60 ft"
+    },
+    "FL330":{
+      "Angles": {
+         "Theta": 70.0,
+         "Alpha": 0.0
+      },
+      "Name":"330 ft"
+    },
+    "FL660":{
+      "Angles": {
+         "Theta": 70.0,
+         "Alpha": 0.0
+      },
+      "Name":"660 ft"
+    },
+    "FL1K":{
+      "Angles": {
+         "Theta": 70.0,
+         "Alpha": 0.0
+      },
+      "Name":"1,000 ft"
+    },
+    "FK":{
+      "Angles": {
+         "Theta": 45.0,
+         "Alpha": 0.0
+      },
+      "Name":"Fake Loc, PI99"
+    }
+  }
+}
